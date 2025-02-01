@@ -6,6 +6,6 @@ def factorial(n):
 
 n = int(input("Enter number for calculate Factorial : "))
 
-res = factorial(n)
+res = factorial(n) #function call. 
 
 print(f"{n} factorial is {res}")
